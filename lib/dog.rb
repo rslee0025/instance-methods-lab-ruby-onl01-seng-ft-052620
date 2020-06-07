@@ -19,3 +19,5 @@ end
 
 fido = Dog.new 
 fido = "Fido"
+
+fido.bark
