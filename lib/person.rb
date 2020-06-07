@@ -11,5 +11,3 @@ class Person
   
 end   
 
-Emily = Person.new
-Emily 
