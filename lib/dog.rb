@@ -17,4 +17,5 @@ class Dog
   end
 end  
 
-fido = Dog.authenticate_or_request_with_http_diges
+fido = Dog.new 
+fido = "Fido"
